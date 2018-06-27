@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\OptymalizacjaCięcia\OptymalizacjaCięcia\bin\Debug\OptymalizacjaCięcia.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\OptymalizacjaCięcia\OptymalizacjaCięcia\bin\Debug\OptymalizacjaCięcia.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\OptymalizacjaCięcia\OptymalizacjaCięcia\bin\Debug\OptymalizacjaCięcia.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\OptymalizacjaCięcia\OptymalizacjaCięcia\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\OptymalizacjaCięcia\OptymalizacjaCięcia\obj\Debug\OptymalizacjaCięcia.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\OptymalizacjaCięcia\OptymalizacjaCięcia\obj\Debug\OptymalizacjaCięcia.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\OptymalizacjaCięcia\OptymalizacjaCięcia\obj\Debug\OptymalizacjaCięcia.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\OptymalizacjaCięcia\OptymalizacjaCięcia\obj\Debug\OptymalizacjaCięcia.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\OptymalizacjaCięcia\OptymalizacjaCięcia\obj\Debug\OptymalizacjaCięcia.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\OptymalizacjaCięcia\OptymalizacjaCięcia\obj\Debug\OptymalizacjaCięcia.CommissionViewer.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\OptymalizacjaCięcia\OptymalizacjaCięcia\obj\Debug\OptymalizacjaCięcia.StartupWindow.resources
+C:\Users\user\documents\visual studio 2015\Projects\OptymalizacjaCięcia\OptymalizacjaCięcia\obj\Debug\OptymalizacjaCięcia.StoreViewer.resources
